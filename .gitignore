@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-notebook
-projectflow.txt
 
-=======
+
+
 /artifact
->>>>>>> 9b2f88421e7593c37879aec4920c5f13380a9b95
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
